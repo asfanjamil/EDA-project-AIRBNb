@@ -1,2 +1,2 @@
 # EDA-project-AIRBNb
-air bnb project about the hotel booking and the hosts 
+Airbnb Bookings Analysis and Conclusion about the price , hosts , demand etc. 
